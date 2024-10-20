@@ -36,6 +36,10 @@
 - MySQL
 - MongoDB
 
+## Profile Views
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=abhishekjaiswar221&label=Profile%20Views&color=12&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
 <!-- Initial README Content -->
 <!-- **abhishekjaiswar221/abhishekjaiswar221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
