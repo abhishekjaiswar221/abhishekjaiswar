@@ -30,6 +30,7 @@
 - REST API
 - Core Java
 - MySQL
+- MongoDB
 
 <!-- Initial README Content -->
 <!-- **abhishekjaiswar221/abhishekjaiswar221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
