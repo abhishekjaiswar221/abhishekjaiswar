@@ -10,10 +10,10 @@
 
 ## I'm a tech enthusiast who loves to learn about new things
 
-## Connect with me on LinkedIn and Twitter
+## Connect with me on LinkedIn and X (Twitter)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekjai221)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhishekjai221)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abhishekjai221)
+[![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/abhishekjai221)
 
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev_abhishekjai)](https://www.instagram.com/dev_abhishekjai/) -->
 
