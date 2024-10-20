@@ -17,6 +17,10 @@
 
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev_abhishekjai)](https://www.instagram.com/dev_abhishekjai/) -->
 
+## Want to collaborate on a project, shoot me an email at
+
+[![GMail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:abhishekjaiswar.work@gmail.com)
+
 ## 🧑🏻‍💻 Skills
 
 - HTML
